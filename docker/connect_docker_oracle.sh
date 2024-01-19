@@ -1,0 +1,1 @@
+docker exec -it oracle sqlplus sys/12012001@alo as sysdba
